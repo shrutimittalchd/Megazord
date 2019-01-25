@@ -1,0 +1,10 @@
+
+\.metadata/
+
+megazord/\.classpath
+
+megazord/\.project
+
+megazord/\.settings/
+
+*.class
